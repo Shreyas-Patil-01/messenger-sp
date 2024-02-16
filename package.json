@@ -1,0 +1,16 @@
+{
+  "name": "chatapp",
+  "version": "1.0.0",
+  "description": "MERN STACK chat app.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node backend/server.js"
+  },
+  "author": "shreyas patil",
+  "license": "ISC",
+  "dependencies": {
+    "export": "^0.1.337",
+    "express": "^4.18.2",
+    "nodemon": "^3.0.3"
+  }
+}
