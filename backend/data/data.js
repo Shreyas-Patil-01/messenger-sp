@@ -107,4 +107,5 @@ const chats = [
   },
 ];
 
-module.exports = chats;
+module.exports = { chats };
+// Used curley braces because we are exporting the arrays of the chats
